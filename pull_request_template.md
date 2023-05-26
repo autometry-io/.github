@@ -2,6 +2,8 @@ _link to ticket, or reference to related issue_
 
 ### Summary
 
+_A short summary of the change - reason, background, references, etc._
+
 ### Screenshots
 
 _Supporting media, demo, before/after (if applicable)_
