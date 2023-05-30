@@ -1,17 +1,18 @@
 _link to ticket, or reference to related issue_
 
-### Summary
+## Summary
 
-_A short summary of the change - reason, background, references, etc._
+_A short summary of the change - answering **what**, **why**, and **how**_
 
-### Screenshots
+## Demonstration
 
-_Supporting media, demo, before/after (if applicable)_
+_Any supporting items that shows a definition of done has been met, for example: screnshots, logs, network responses, links to particular lines of code, etc._
 
-### Checklist
+## Checklist
 
 - [ ] Unit tests created and passing
-- [ ] Documentation updated
+- [ ] Self review completed
+- [ ] Documentation updated (README, Monday workdoc, etc.)
 - [ ] Ticket's definition of done met, where defined
 - [ ] Ticket updated with a link to the PR, if applicable
 
