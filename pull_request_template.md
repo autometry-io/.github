@@ -6,7 +6,7 @@ _A short summary of the change - answering **what**, **why**, and **how**_
 
 ## Demonstration
 
-_Any supporting items that shows a definition of done has been met, for example: screnshots, logs, network responses, links to particular lines of code, etc. or simply an instruction (e.g. run tests)_
+_Any supporting items that shows a definition of done has been met, for example: screenshots, logs, network responses, links to particular lines of code, etc. or simply an instruction (e.g. run tests)_
 
 ## Checklist
 
